@@ -1,3 +1,5 @@
+# COMCOIN. CA: 4chpewx2GE33XeBowzN1KA46KrR4gYvWoAfUnaUcgfZq
+
 # LLM Calculator
 
 This script estimates the memory requirements and performance of Hugging Face models based on quantization levels. It fetches model parameters, calculates required memory, and analyzes performance with different RAM/VRAM configurations.
